@@ -1,2 +1,2 @@
 @echo off
-java Minecraft.jar
+java -jar minecraft.jar
