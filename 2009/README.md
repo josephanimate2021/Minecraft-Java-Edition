@@ -94,7 +94,7 @@ Version 1.3:
 + Add logged-in.txt on the server
 + added /setspawn command for admins
 + Fix heartbeat pausing the game
-+ Don’t let people spam ping requests
++ Donâ€™t let people spam ping requests
 + Fix ban ip (it was working, but not intuitive)
 + Various server fill exploit preventions. No more lava floods!
 + Private server adresses changed behavior, sorry. The server generates an externalurl.txt when run now.
